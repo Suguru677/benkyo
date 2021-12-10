@@ -1,0 +1,6 @@
+*.csv
+/DXセミナー_2021
+/No_5
+*.txt
+*.ndjson
+tempCodeRunnerFile.py
