@@ -11,6 +11,7 @@ e_idx = link.find(e_target)
 
 id = link[s_idx:e_idx]
 
+# googlecolab用htmlコード
 code = f"<img src = \"http://drive.google.com/uc?export=view&id={id}\">"
 pyperclip.copy(code)
 print('クリップボードにコピーしました')
